@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://shabby-frontend.vercel.app","http://localhost:8081"
+      "https://shabby-frontend.vercel.app","http://localhost:8081","https://s-frontend-zeta.vercel.app"
   
     ], // 
     Headers: true,
